@@ -6,6 +6,8 @@ public class Ejemplotry_catch {
     public static void main(String[] args) {
         
         String cadena = "12345";
+
+
         int numero;
         
         try{
